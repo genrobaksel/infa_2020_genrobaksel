@@ -66,8 +66,7 @@ def tree_leafs ():
                 circle(screen, (0, 0, 0), (620  , 245),30, 2)
                 circle(screen, (0, 100, 0), (580  , 245),30)
                 circle(screen, (0, 0, 0), (580  , 245),30, 2)
-                for i in range (20):
-        
+
 
 tree_leafs ()
 
